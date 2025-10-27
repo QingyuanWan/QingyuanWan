@@ -2,9 +2,25 @@
   <img src="images/svg/header_en.svg" alt="header" />
 </p>
 
+<div align="center"><strong>About Me</strong></div>
+
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Hello+%3CCoders%2F%3E;I'm+Qingyuan+Wan+(Will%2FEpisode);MSCS+%40+Northeastern;Full-stack+%2B+AI%2FML+%2B+DevOps"
-    alt="typing intro"
-  />
+
+• Love for science and innovation.  
+• Currently pursuing a Master’s in Computer Science at Northeastern University.  
+• Passionate about problem-solving and daily workflow automation.  
+• Researching LLMs and modern software architecture integrated with AI workflows.
+
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/qingyuan-wan-b240b2231/">LinkedIn</a> •
+  <a href="mailto:2001qingyuanwan@gmail.com">Gmail</a> •
+  <a href="https://wanqingyuan_website_placeholder">Website</a>
+</p>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;
+  I like exploring <strong>guninvex</strong>.<br/>
+
+  
 </div>
