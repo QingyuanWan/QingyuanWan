@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Hello+%3CCoders%2F%3E;I'm+Qingyuan+Wan+(Will%2FEpisode);MSCS+%40+Northeastern;Full-stack+%2B+AI%2FML+%2B+DevOps"
+    alt="typing intro"
+  />
+</div>
 
 <!--
 **QingyuanWan/QingyuanWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
