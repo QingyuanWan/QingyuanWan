@@ -24,8 +24,8 @@
 
 
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;
-  Welcome to check my personal website —
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;
+  Welcome to check my personal website
   <a href="https://wanqingyuan_website_placeholder">
     <img src="https://img.shields.io/badge/website-000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" />
   </a><br/>
@@ -38,24 +38,28 @@
 
 <table>
   <tr>
+    <!-- LEFT: Top Languages (from your GitHub repos) -->
     <td align="center" valign="top" width="50%">
 
       <a href="https://github.com/QingyuanWan">
         <img
           alt="Top Langs"
-          height="200"
-          width="360"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=QingyuanWan&layout=compact&theme=transparent"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=QingyuanWan&layout=compact&langs_count=8&hide_border=true&card_width=360&theme=transparent"
+          width="360" height="200"
         />
       </a>
+      <br/>
+      <sub>(Based on public repos; private code isn’t counted.)</sub>
 
     </td>
+
+    <!-- RIGHT: Your tech tags (static badges) -->
     <td align="left" valign="middle" width="50%">
 
       <!-- Languages -->
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=lispworks&logoColor=white" />
