@@ -169,7 +169,7 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
 **Feel free to take a look at the source code:**  
-👉 <a href="https://github.com/QingyuanWan">github.com/QingyuanWan</a>
+
 
 
 </div>
